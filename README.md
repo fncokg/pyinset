@@ -9,7 +9,7 @@ Note: This is an early prototype. The API and functionality may change significa
 Install from source (not published on PyPI yet):
 
 ```bash
-git clone https://github.com/<your-account>/pyinset.git
+git clone https://github.com/fncokg/pyinset.git
 cd pyinset
 pip install -e .
 ```
