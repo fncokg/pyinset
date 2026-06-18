@@ -1,0 +1,13 @@
+[project]
+name = "pyinset"
+version = "0.1.0"
+authors = [{ name = "Chao Kong", email = "kongchao1998@gmail.com" }]
+description = "A Python package for creating inset maps using geopandas and matplotlib."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Programming Language :: Python :: 3",
+]
+license = "GPL-3.0"
+dependencies = ["geopandas", "matplotlib", "numpy"]
